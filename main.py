@@ -23,3 +23,5 @@ if __name__ == "__main__":
     shake_and_generate_number()
 
 ## vauuuuuu nagy kiraly vagyok
+
+## vaaiauduus
